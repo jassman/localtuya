@@ -1,6 +1,6 @@
 {
   "domain": "localtuya Jas",
-  "name": "LocalTuya integration",
+  "name": "LocalTuyaJas integration",
   "version": "3.2.1",
   "documentation": "https://github.com/rospogrigio/localtuya/",
   "dependencies": [],
